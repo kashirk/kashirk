@@ -107,7 +107,6 @@
 
 </div>
 
----
 
 
 <!-- ============================================================ -->
@@ -125,7 +124,10 @@
 
 </div>
 
---
+
+<!-- ============================================================ -->
+<!--                  GITHUB Trophies                             -->
+<!-- ============================================================ -->
 
 ## 🏆 GitHub Trophies
 
@@ -133,7 +135,6 @@
 
 
 
----
 
 <!-- ============================================================ -->
 <!--                     CONTRIBUTION SNAKE                       -->
@@ -150,7 +151,6 @@
 
 </div>
 
----
 
 <!-- ============================================================ -->
 <!--                            QUOTE                             -->
@@ -166,8 +166,8 @@
 <!-- ============================================================ -->
 <div align="center">
 
-**_Thanks for visiting — let's build the future of AI, together._**
+**_Thanks for visiting_**
 
-⭐️ If you find my work useful, consider [following](https://github.com/ashishpatel26) or starring a repo.
+⭐️ If you find my work useful, consider [following](https://github.com/kashirk) or starring a repo.
 
 </div>
