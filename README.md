@@ -1,3 +1,6 @@
+# 💫 Hi 👋, I'm Kalpesh S
+**A passionate AI Engineer
+
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kashirk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalpeshshirke23@gmail.com) 
