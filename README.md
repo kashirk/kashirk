@@ -95,7 +95,7 @@
 
 <div align="center">
 
---
+-
 
 **🧬 GenAI · LLMs · Agents · Vector DBs**
 
@@ -107,7 +107,7 @@
 
 </div>
 
-
+---
 
 <!-- ============================================================ -->
 <!--                  GITHUB METRICS & STATS                      -->
@@ -123,16 +123,6 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kashirk&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true)](https://github.com/ashishpatel26)
 
 </div>
-
-
-<!-- ============================================================ -->
-<!--                  GITHUB Trophies                             -->
-<!-- ============================================================ -->
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=kashirk&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 
 
 
@@ -151,6 +141,7 @@
 
 </div>
 
+---
 
 <!-- ============================================================ -->
 <!--                            QUOTE                             -->
