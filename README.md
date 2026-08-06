@@ -120,7 +120,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kashirk&theme=react&hide_border=true&background=0D1117&ring=1DA1F2&fire=FFD700&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kashirk&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true)](https://github.com/ashishpatel26)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kashirk&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true)](https://github.com/kashirk)
 
 </div>
 
