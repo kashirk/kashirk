@@ -1,32 +1,173 @@
-# 💫 Hi 👋, I'm Kalpesh S
-**A passionate AI Engineer
+<!-- ============================================================ -->
+<!--                            HEADER                            -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+# Kalpesh S
+
+#### AI Engineer · Open Source Builder · Technical Content Creator
 
 
-## 🌐 Socials:
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kashirk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalpeshshirke23@gmail.com) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Building+Agentic+AI+%26+GenAI+at+Scale" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kashirk&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kashirk&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kashirk&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kashirk&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ============================================================ -->
+<!--                       SOCIAL + METRICS                       -->
+<!-- ============================================================ -->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kashirk&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)]()
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://kashirk.medium.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalpeshshirke23@gmail.com)
+
+</div>
+
+---
+ 
+
+<!-- ============================================================ -->
+<!--                          TECH STACK                          -->
+<!-- ============================================================ -->
+## 🧰 Tech Stack
+
+<div align="center">
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="58" height="58" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="58" height="58" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="58" height="58" />
+  &nbsp;&nbsp;
+  
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+  
+<td align="right" width="170"><b>🧠 Languages & Core</b></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark&animate=true" width="48" height="48" alt="python" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark&animate=true" width="48" height="48" alt="java" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash&theme=dark&animate=true" width="48" height="48" alt="bash" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda&theme=dark&animate=true" width="48" height="48" alt="anaconda" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark&animate=true" width="48" height="48" alt="git" />
+</td>
+</tr>
+  
+<tr>
+<td align="right"><b>🤖 AI / ML / DL</b></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch&theme=dark&animate=true" width="48" height="48" alt="pytorch" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow&theme=dark&animate=true" width="48" height="48" alt="tensorflow" />
+</td>
+</tr>
+
+<tr>
+<td align="right"><b>☁️ Cloud · MLOps</b></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws&theme=dark&animate=true" width="48" height="48" alt="aws" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp&theme=dark&animate=true" width="48" height="48" alt="gcp" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark&animate=true" width="48" height="48" alt="docker" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark&animate=true" width="48" height="48" alt="fastapi" />
+</td>
+</tr>
+
+<tr>
+<td align="right"><b>🗄️ Data </b></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark&animate=true" width="48" height="48" alt="mysql" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres&theme=dark&animate=true" width="48" height="48" alt="postgres" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb&theme=dark&animate=true" width="48" height="48" alt="mongodb" />
+</td>
+</tr>
+
+</table>
+
+<div align="center">
+
+--
+
+**🧬 GenAI · LLMs · Agents · Vector DBs**
+
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-1A1A2E?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
 
 ---
 
-<!-- Snake Game Repo View -->
+
+<!-- ============================================================ -->
+<!--                  GITHUB METRICS & STATS                      -->
+<!-- ============================================================ -->
+
+## 📊 GitHub Metrics & Stats Dashboard
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kashirk&theme=react&hide_border=true&background=0D1117&ring=1DA1F2&fire=FFD700&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kashirk&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true)](https://github.com/ashishpatel26)
+
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+--
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=kashirk&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+---
+
+<!-- ============================================================ -->
+<!--                     CONTRIBUTION SNAKE                       -->
+<!-- ============================================================ -->
+### 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kashirk/kashirk/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kashirk/kashirk/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/kashirk/kashirk/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                            QUOTE                             -->
+<!-- ============================================================ -->
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
+
+</div>
+
+<!-- ============================================================ -->
+<!--                           FOOTER                             -->
+<!-- ============================================================ -->
+<div align="center">
+
+**_Thanks for visiting — let's build the future of AI, together._**
+
+⭐️ If you find my work useful, consider [following](https://github.com/ashishpatel26) or starring a repo.
+
+</div>
